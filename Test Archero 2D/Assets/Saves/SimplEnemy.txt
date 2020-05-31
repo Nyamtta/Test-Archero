@@ -1,0 +1,7 @@
+{
+    "HItPoint": 10.0,
+    "MovSpeed": 2.0,
+    "AttackDamag": 2.0,
+    "AttackSpeed": 1.0,
+    "BulledSpeed": 0.0
+}
